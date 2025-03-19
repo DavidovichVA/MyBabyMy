@@ -11,4 +11,4 @@ Technologies: Xcode, Swift, UIKit, RealmSwift, Alamofire, SwiftyJSON, Facebook S
 
 Programming Language: Swift
 
-![1b14dd034cdf48da962da6d992cf32a0](https://github.com/user-attachments/assets/047bc8ab-722c-4441-a772-877ff5005c9b)
+![1b14dd034cdf48da962da6d992cf32a0](https://github.com/user-attachments/assets/65b8d2db-e6bc-421e-b205-553ae5edb274)

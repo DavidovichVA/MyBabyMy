@@ -1,0 +1,5 @@
+"NSLocationWhenInUseUsageDescription" = "Autoriser MyBabyMy à l'accès à votre position";
+"NSCameraUsageDescription" = "Autoriser MyBabyMy à l'accès au caméra";
+"NSMicrophoneUsageDescription" = "Autoriser MyBabyMy à l'accès au microphone";
+"NSPhotoLibraryUsageDescription" = "Autoriser MyBabyMy à l'accès aux Photos";
+"NSAppleMusicUsageDescription" = "Autoriser MyBabyMy à l'accès à la bibliothèque multimédia";

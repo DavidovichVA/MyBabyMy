@@ -1,0 +1,218 @@
+
+"Social Networks:" = "SNS";
+"Login with Instagram" = "インスタグラムでログイン";
+"Login with Facebook" = "Facebookでログイン";
+"Login with Vkontakte" = "Vkontakteでログイン";
+"CREATE NEW" = "新規作成";
+"LOGIN" = "ログイン";
+
+"CREATE NEW ACCOUNT" = "新しいアカウントを作成";
+"EMAIL" = "Eメール";
+"PASSWORD" = "パスワード";
+"CONFIRM PASSWORD" = "パスワードを確認";
+"FORGOT PASSWORD" = "パスワードを忘れた場合";
+
+"Enter your email" = "メールアドレス";
+"SEND" = "送る";
+"ForgotPassword Cancel" = "取り消し";
+"Instructions for password recovery were sent to your email" = "パスワード回復の手順が電子メールに送信されました";
+"Please enter email address" = "メールアドレスを入力してください";
+"Incorrect email address" = "不正な電子メールアドレス";
+"Email must be at least 8 characters long" = "メールは8文字以上でなければなりません";
+"Email must be no more than 35 characters long" = "メールは35文字以内で入力してください";
+"Please enter password" = "パスワードを入力して下さい";
+"Password must be at least 6 characters long" = "パスワードは少なくとも6つの文字でなければなりません";
+"Password must be no more than 18 characters long" = "パスワードは18文字以内で指定してください";
+"Password must contain letters and digits only" = "パスワードには文字と数字のみを使用する必要があります";
+"Password must contain at least one letter" = "パスワードは、少なくとも1つの文字を含む必要があります";
+"Password must contain at least one digit" = "パスワードは、少なくともひとつの数字を含む必要があります";
+"Please confirm password" = "パスワードを確認してください";
+"Password does not match confirm password" = "パスワードが確認パスワードと一致しません";
+"Current and new passwords are identical" = "現在のパスワードと新しいパスワードは同一です";
+
+"THE TERMS OF USE" = "妊娠";
+"DECLINE" = "同意しない";
+"ACCEPT" = "同意する";
+
+"Settings" = "設定";
+"Calendar" = "カレンダー";
+
+"CALENDAR" = "カレンダー";
+"Pregnancy Weeks" = "妊娠週数";
+
+"Pregnancy" = "妊娠";
+"Week %d" = "第%d週";
+"PHOTO EVERYDAY" = "毎日の写真";
+"VIDEO EVERYDAY" = "毎日のビデオ";
+"PHOTO IN DYNAMICS" = "子供のセルフィー";
+
+"I AM:" = "私";
+"FUTURE MOM" = "未来のママ";
+"MOM" = "ママ";
+"BABY NAME" = "赤ちゃんの名前";
+"BIRTHDAY" = "誕生日";
+"CURRENT PREGNANCY WEEK" = "現在の妊娠週数";
+"BEGINNING OF WEEK" = "週の初め";
+"Please enter pregnancy week" = "妊娠週を入力してください";
+"Please enter baby name" = "赤ちゃん名を入力してください";
+"Please enter baby birthday" = "赤ちゃんの誕生日を入力してください";
+"Create baby from existing pregnancy?" = "すでに存在しているプロファイルから妊娠プロファイルを作りますか？";
+"Pregnancy started on %@" = "%@に始まった妊娠";
+"You really want to delete?" = "本当に削除しますか？";
+"Changes saved" = "変更が保存されました";
+"Changes were not saved" = "変更が保存されませんでした";
+
+"2 SEC" = "2秒";
+"3 SEC" = "3秒";
+"PHOTO PREVIEW" = "写真プレビュー";
+"VIDEO PREVIEW" = "ビデオを見る";
+"RETAKE" = "もう一度撮る";
+"EDIT INFO" = "情報を編集する";
+"Selected video is too long" = "ビデオが長すぎます";
+
+"PHOTO INFO" = "写真情報";
+"VIDEO INFO" = "ビデオについての情報";
+"DATE" = "日付";
+"WEEK" = "週間";
+"PLACE" = "場所";
+"WEATHER" = "天気";
+"BEST MOMENT" = "最高瞬間";
+"SAVE" = "保存する";
+
+"You have Pro Account" = "Proアカウントが有効です";
+"Valid until %@" = "%@まで有効";
+"Social Networks" = "SNS";
+"Change Password" = "パスワードを変更する";
+"Pro Account" = "Proアカウント";
+"Restore Purchases" = "購入したものを復元する";
+"Sync" = "同期化";
+"Feedback" = "連絡先";
+"Logout" = "ログアウト";
+
+"You got pro account till %@" = "PROアカウントは%@まで有効です";
+"You have no purchases" = "購入がありません";
+"Thanks for your feedback" = "ご意見ありがとうございます";
+"Failed to send mail" = "メール送信に失敗しました";
+
+"SOCIAL NETWORKS" = "SNS";
+"Disconnect Instagram" = "インスタグラムをオフにする";
+"Disconnect Facebook" = "Facebookの接続を解除する";
+"Disconnect Vkontakte" = "Vkontakteの接続を解除する";
+"No connection" = "未接続です";
+"Can not remove your only authorization way" = "唯一の認証方法を削除することはできません";
+
+"Did not receive Facebook auth token" = "Facebookの認証トークンを受信しませんでした";
+"Did not receive Vkontakte auth token" = "Vkontakteの認証トークンを受信しませんでした";
+"Did not receive Instagram auth token" = "Instagramの認証トークンを受信しませんでした";
+"Instagram authorization failed" = "Instagramの認証に失敗しました";
+"Did not receive Facebook user data" = "Facebookユーザー情報を受信しませんでした";
+"VKontakte access error" = "VKontakteアクセスエラー";
+
+"CURRENT PASSWORD" = "現在のパスワード";
+"NEW PASSWORD" = "新しいパスワード";
+"Password changed" = "パスワード変更済み";
+
+"PRO ACCOUNT" = "Proアカウント";
+"All photos are synced to the cloud" = "全ての写真やビデオをクラウドにコピーする";
+"Add a photo to any date" = "好きな日付で写真とビデオを追加しましょう";
+"Add everyday materials in each section" = "好きなカテゴリに毎日写真やビデオを追加しましょう";
+"No app logo in the video" = "ロゴのないビデオ";
+"Payments forbidden" = "支払が禁断されました";
+"Failed to get purchase list" = "購入リストを取得出来ませんでした";
+"No purchases available" = "利用可能な購入はありません";
+"RETRY" = "再試行";
+
+"SYNC" = "同期化";
+"SYNC AUTOMATICALLY" = "自動同期化";
+"SYNC MUSIC AUTOMATICALLY" = "自動的に音楽を同期させる";
+"ONLY OVER WI-FI" = "WiFiでのみ";
+"SYNC NOW" = "今すぐ同期化する";
+"Sync server data" = "サーバデータを同期化";
+
+"CREATE VIDEO" = "ビデオを作成する";
+"Choose a theme for video" = "ビデオのテーマを選んでください";
+"Normal movie" = "通常スピードのビデオ";
+"Slow movie" = "ロースピードのビデオ";
+"Best moments" = "最高の瞬間";
+"Create manually" = "ビデオのプロパティ";
+"PERIOD" = "期間";
+"MY BABY" = "私の赤ちゃん";
+"MY PREGNANCY" = "私の妊娠";
+"%d of %d" = "%2$dの%1$d";
+"NEXT" = "次";
+
+"MUSIC IN VIDEO" = "ビデオの音楽";
+"SHOW AGE ON VIDEO" = "ビデオで年齢を表示する";
+"CREATE" = "作成する";
+"VIDEO SPEED" = "ビデオスピード";
+"Slow" = "遅い";
+"Normal" = "ノーマル";
+"Fast" = "速い";
+"Very fast" = "とても速い";
+"%g sec per photo" = "写真1枚当たり%g秒";
+"Choose a resolution for the video" = "動画の解像度を選択してください";
+
+"SELECT MUSIC" = "音楽を選ぶ";
+"NO SOUND" = "音楽なし";
+"BROWSE MUSIC" = "マイミュージック";
+"Select any song for use in video" = "ビデオで使用される曲を選択して下さい";
+"Selected track is not available" = "選択したトラックはアクセス出来ません";
+"Track must be downloaded from iTunes" = "トラックはiTunesからダウンロードする必要があります";
+"Selected track can not be used" = "択したトラックは使用出来ません";
+
+"Add at least 5 photos to create video" = "ビデオを作成するために、少なくとも5枚の写真を追加して下さい";
+"Add at least 5 videos to create video" = "ビデオを作成するために、少なくとも5枚のビデオを追加して下さい";
+"Loading music" = "音楽の読込中";
+"Failed to load music" = "音楽の読込に失敗しました";
+"Creating video" = "ビデオを作成中";
+"Video creation failed" = "ビデオ作成に失敗しました";
+"Video creation canceled" = "ビデオ作成がキャンセルされました";
+
+"Save" = "保存";
+"Saved" = "保存";
+"Video saved to gallery" = "ビデオがギャラリーに保存されました";
+"Failed to save video to gallery" = "ビデオの保存に失敗しました";
+
+"OK" = "ＯＫ";
+"CANCEL" = "キャンセル";
+"Cancel" = "キャンセル";
+"DELETE" = "削除";
+"CONFIRM" = "確認";
+"Error" = "エラー";
+
+"Clear" = "クリア";
+"Rain" = "雨";
+"Storm" = "雷";
+"Snow" = "雪";
+
+"Geolocation service unavailable" = "ジオロケーションサービスを利用出来ません";
+"Camera unavailable" = "カメラが利用出来ません";
+"Microphone unavailable" = "マイクが利用できません";
+"Photos unavailable" = "写真が利用出来ません";
+
+"No internet connection" = "インターネット接続がありません";
+"No server connection" = "サーバーへの接続がありません";
+"Incorrect request" = "不正なリクエスト";
+"Service temporary unavailable" = "サービスは一時的に利用出来ません";
+"Connection error" = "接続エラー";
+"No data received" = "データは受信していません";
+"Wrong response data" = "応答データが不正です";
+"Server error" = "サーバーエラー";
+"Failed to download file" = "ファイルのダウンロードに失敗しました";
+"Corrupt image data" = "破損した画像データ";
+
+"ERROR_AUTH_DATA_DUPLICATION" = "このソーシャルネットワークアカウントは既に別のユーザーに属しています";
+"ERROR_NULL_AUTH_DATA" = "唯一の認証方法を削除することが出来ません";
+"ERROR_USER_WITH_THIS_CRED_ALREADY_EXIST" = "そのようなユーザが既に登録されています";
+"ERROR_USER_DOES_NOT_EXIST" = "そのようなユーザーが登録されていません";
+"ERROR_LOGIN" = "パスワード、またはメールアドレスが正しくありません。";
+"ERROR_AUTH" = "承認エラー";
+"ERROR_NOT_NATIVE_REGISTRATION" = "ユーザーは電子メールで登録していません";
+"ERROR_WRONG_PASS" = "不正なパスワード";
+"ERROR_PERMISSION" = "アクセス不可";
+"ERROR_BABY_COUNT_LIMIT" = "3つ以上のペルソナを作成出来ません";
+"ERROR_SERVER_INTERNAL" = "サーバーエラー";
+"MEDIA_ALREADY_EXIST" = "そのようなデータを含むメディアは既に存在しています";
+"ERROR_NO_TRANSACTION_ID" = "トランザクションIDが指定されていません";
+
+

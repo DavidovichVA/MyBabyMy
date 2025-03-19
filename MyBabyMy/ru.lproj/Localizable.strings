@@ -1,0 +1,218 @@
+
+"Social Networks:" = "Социальные сети:";
+"Login with Instagram" = "Войти через Instagram";
+"Login with Facebook" = "Войти через Facebook";
+"Login with Vkontakte" = "Войти через Vkontakte";
+"CREATE NEW" = "СОЗДАТЬ НОВЫЙ";
+"LOGIN" = "ВОЙТИ";
+
+"CREATE NEW ACCOUNT" = "СОЗДАТЬ НОВЫЙ АККАУНТ";
+"EMAIL" = "EMAIL";
+"PASSWORD" = "ПАРОЛЬ";
+"CONFIRM PASSWORD" = "ПОДТВЕРДИТЕ ПАРОЛЬ";
+"FORGOT PASSWORD" = "ЗАБЫЛИ ПАРОЛЬ";
+
+"Enter your email" = "Введите ваш email";
+"SEND" = "ОТПРАВИТЬ";
+"ForgotPassword Cancel" = "ВЫЙТИ";
+"Instructions for password recovery were sent to your email" = "Инструкции для восстановления пароля высланы на вашу почту";
+"Please enter email address" = "Введите email";
+"Incorrect email address" = "Некорректный email";
+"Email must be at least 8 characters long" = "Email должен быть не менее 8 символов";
+"Email must be no more than 35 characters long" = "Email должен быть не более 35 символов";
+"Please enter password" = "Введите пароль";
+"Password must be at least 6 characters long" = "Пароль должен быть не менее 6 символов";
+"Password must be no more than 18 characters long" = "Пароль должен быть не более 18 символов";
+"Password must contain letters and digits only" = "Пароль должен состоять только из букв и цифр";
+"Password must contain at least one letter" = "Пароль должен содержать хотя бы одну букву";
+"Password must contain at least one digit" = "Пароль должен содержать хотя бы одну цифру";
+"Please confirm password" = "Подтвердите ваш пароль";
+"Password does not match confirm password" = "Пароль не совпадает с подтверждением";
+"Current and new passwords are identical" = "Новый пароль совпадает со старым";
+
+"THE TERMS OF USE" = "ПОЛЬЗОВАТЕЛЬСКОЕ СОГЛАШЕНИЕ";
+"DECLINE" = "НЕ СОГЛАСНА";
+"ACCEPT" = "СОГЛАСНА";
+
+"Settings" = "Настройки";
+"Calendar" = "Календарь";
+
+"CALENDAR" = "КАЛЕНДАРЬ";
+"Pregnancy Weeks" = "Недели беременности";
+
+"Pregnancy" = "Беременность";
+"Week %d" = "Неделя %d";
+"PHOTO EVERYDAY" = "ФОТОГРАФИЯ КАЖДЫЙ ДЕНЬ";
+"VIDEO EVERYDAY" = "ВИДЕО КАЖДЫЙ ДЕНЬ";
+"PHOTO IN DYNAMICS" = "ФОТОГРАФИИ В ДИНАМИКЕ";
+
+"I AM:" = "Я:";
+"FUTURE MOM" = "БУДУЩАЯ МАМА";
+"MOM" = "МАМА";
+"BABY NAME" = "ИМЯ РЕБЕНКА";
+"BIRTHDAY" = "ДЕНЬ РОЖДЕНИЯ";
+"CURRENT PREGNANCY WEEK" = "ТЕКУЩАЯ НЕДЕЛЯ БЕРЕМЕННОСТИ";
+"BEGINNING OF WEEK" = "НАЧАЛО НЕДЕЛИ";
+"Please enter pregnancy week" = "Выберите неделю беременности";
+"Please enter baby name" = "Введите имя ребенка";
+"Please enter baby birthday" = "Введите день рождения ребенка";
+"Create baby from existing pregnancy?" = "Создать профиль ребенка из существующего профиля беременности?";
+"Pregnancy started on %@" = "Беременность, начавшаяся %@";
+"You really want to delete?" = "Вы действительно хотите удалить?";
+"Changes saved" = "Изменения сохранены";
+"Changes were not saved" = "Изменения не были сохранены";
+
+"2 SEC" = "2 СЕК";
+"3 SEC" = "3 СЕК";
+"PHOTO PREVIEW" = "ПРОСМОТР ФОТО";
+"VIDEO PREVIEW" = "ПРОСМОТР ВИДЕО";
+"RETAKE" = "ПЕРЕСНЯТЬ";
+"EDIT INFO" = "РЕДАКТИРОВАТЬ ИНФОРМАЦИЮ";
+"Selected video is too long" = "Слишком длинное видео";
+
+"PHOTO INFO" = "ИНФОРМАЦИЯ О ФОТО";
+"VIDEO INFO" = "ИНФОРМАЦИЯ О ВИДЕО";
+"DATE" = "ДАТА";
+"WEEK" = "НЕДЕЛЯ";
+"PLACE" = "МЕСТО";
+"WEATHER" = "ПОГОДА";
+"BEST MOMENT" = "ЛУЧШИЙ МОМЕНТ";
+"SAVE" = "СОХРАНИТЬ";
+
+"You have Pro Account" = "У Вас действует ПРО Аккаунт";
+"Valid until %@" = "Действует до %@";
+"Social Networks" = "Социальные сети";
+"Change Password" = "Изменить пароль";
+"Pro Account" = "ПРО Аккаунт";
+"Restore Purchases" = "Восстановить покупки";
+"Sync" = "Синхронизация";
+"Feedback" = "Обратная связь";
+"Logout" = "Выйти";
+
+"You got pro account till %@" = "ПРО Аккаунт действует до %@";
+"You have no purchases" = "У вас нет покупок";
+"Thanks for your feedback" = "Спасибо за ваш отзыв";
+"Failed to send mail" = "Не удалось отправить письмо";
+
+"SOCIAL NETWORKS" = "СОЦИАЛЬНЫЕ СЕТИ";
+"Disconnect Instagram" = "Отключить Instagram";
+"Disconnect Facebook" = "Отключить Facebook";
+"Disconnect Vkontakte" = "Отключить Vkontakte";
+"No connection" = "Соединение отсутствует";
+"Can not remove your only authorization way" = "Нельзя удалить единственный способ авторизации";
+
+"Did not receive Facebook auth token" = "Не удалось авторизоваться через Facebook";
+"Did not receive Vkontakte auth token" = "Не удалось авторизоваться через Vkontakte";
+"Did not receive Instagram auth token" = "Не удалось авторизоваться через Instagram";
+"Instagram authorization failed" = "Не удалось авторизоваться через Instagram";
+"Did not receive Facebook user data" = "Не удалось получить данные пользователя Facebook";
+"VKontakte access error" = "Ошибка доступа VKontakte";
+
+"CURRENT PASSWORD" = "ТЕКУЩИЙ ПАРОЛЬ";
+"NEW PASSWORD" = "НОВЫЙ ПАРОЛЬ";
+"Password changed" = "Пароль изменен";
+
+"PRO ACCOUNT" = "ПРО АККАУНТ";
+"All photos are synced to the cloud" = "Все материалы дублируются в облако";
+"Add a photo to any date" = "Добавляйте фото и видео на любую дату";
+"Add everyday materials in each section" = "Добавляйте каждый день материалы в любую категорию";
+"No app logo in the video" = "Отсутствует логотип приложения в видео";
+"Payments forbidden" = "Платежи запрещены";
+"Failed to get purchase list" = "Не удалось получить список доступных покупок";
+"No purchases available" = "Нет доступных покупок";
+"RETRY" = "ПОПРОБОВАТЬ СНОВА";
+
+"SYNC" = "СИНХРОНИЗАЦИЯ";
+"SYNC AUTOMATICALLY" = "АВТОМАТИЧЕСКАЯ СИНХРОНИЗАЦИЯ";
+"SYNC MUSIC AUTOMATICALLY" = "АВТОМАТИЧЕСКАЯ СИНХРОНИЗАЦИЯ МУЗЫКИ";
+"ONLY OVER WI-FI" = "ТОЛЬКО ЧЕРЕЗ WI-FI";
+"SYNC NOW" = "СИНХРОНИЗИРОВАТЬ СЕЙЧАС";
+"Sync server data" = "Синхронизация данных с сервером";
+
+"CREATE VIDEO" = "СОЗДАНИЕ ВИДЕО";
+"Choose a theme for video" = "Выберите тему для видео";
+"Normal movie" = "Обычное видео";
+"Slow movie" = "Медленное видео";
+"Best moments" = "Лучшие моменты";
+"Create manually" = "Характеристики видео";
+"PERIOD" = "ПЕРИОД";
+"MY BABY" = "МОЙ МАЛЫШ";
+"MY PREGNANCY" = "МОЯ БЕРЕМЕННОСТЬ";
+"%d of %d" = "%d из %d";
+"NEXT" = "ДАЛЬШЕ";
+
+"MUSIC IN VIDEO" = "МУЗЫКА ДЛЯ ВИДЕО";
+"SHOW AGE ON VIDEO" = "ПОКАЗЫВАТЬ ВОЗРАСТ НА ВИДЕО";
+"CREATE" = "СОЗДАТЬ";
+"VIDEO SPEED" = "СКОРОСТЬ ВИДЕО";
+"Slow" = "Медленная";
+"Normal" = "Нормальная";
+"Fast" = "Быстрая";
+"Very fast" = "Очень быстрая";
+"%g sec per photo" = "%g сек на фото";
+"Choose a resolution for the video" = "Выберите разрешение для видео";
+
+"SELECT MUSIC" = "ВЫБЕРИТЕ МУЗЫКУ";
+"NO SOUND" = "БЕЗ МУЗЫКИ";
+"BROWSE MUSIC" = "МОЯ МУЗЫКА";
+"Select any song for use in video" = "Выберите любую песню для видео";
+"Selected track is not available" = "Выбранный трек недоступен";
+"Track must be downloaded from iTunes" = "Трек должен быть скачан с iTunes";
+"Selected track can not be used" = "Выбранный трек нельзя использовать";
+
+"Add at least 5 photos to create video" = "Добавьте хотя бы 5 фото, чтобы создать видео";
+"Add at least 5 videos to create video" = "Добавьте хотя бы 5 видео";
+"Loading music" = "Загрузка музыки";
+"Failed to load music" = "Не удалось загрузить музыку";
+"Creating video" = "Видео создается";
+"Video creation failed" = "Ошибка создания видео";
+"Video creation canceled" = "Создание видео отменено";
+
+"Save" = "Сохранить";
+"Saved" = "Сохранено";
+"Video saved to gallery" = "Видео сохранено в галерее";
+"Failed to save video to gallery" = "Не удалось сохранить видео";
+
+"OK" = "ОК";
+"CANCEL" = "ОТМЕНА";
+"Cancel" = "Отмена";
+"DELETE" = "УДАЛИТЬ";
+"CONFIRM" = "ПОДТВЕРЖДАЮ";
+"Error" = "Ошибка";
+
+"Clear" = "ЯСНО";
+"Rain" = "ДОЖДЬ";
+"Storm" = "ГРОЗА";
+"Snow" = "СНЕГ";
+
+"Geolocation service unavailable" = "Геолокация недоступна";
+"Camera unavailable" = "Камера недоступна";
+"Microphone unavailable" = "Микрофон недоступен";
+"Photos unavailable" = "Фото недоступны";
+
+"No internet connection" = "Нет соединения с интернетом";
+"No server connection" = "Нет соединения с сервером";
+"Incorrect request" = "Некорректный запрос";
+"Service temporary unavailable" = "Сервис временно недоступен";
+"Connection error" = "Ошибка соединения";
+"No data received" = "Не получено данных";
+"Wrong response data" = "Ошибка в полученных данных";
+"Server error" = "Ошибка сервера";
+"Failed to download file" = "Не удалось скачать файл";
+"Corrupt image data" = "Файл изображения поврежден";
+
+"ERROR_AUTH_DATA_DUPLICATION" = "Данный аккаунт социальной сети уже принадлежит другому пользователю";
+"ERROR_NULL_AUTH_DATA" = "Нельзя удалить единственный способ авторизации";
+"ERROR_USER_WITH_THIS_CRED_ALREADY_EXIST" = "Пользователь с этими данными уже зарегистрирован";
+"ERROR_USER_DOES_NOT_EXIST" = "Пользователь с этими данными не зарегистрирован";
+"ERROR_LOGIN" = "Неверный пароль или почта";
+"ERROR_AUTH" = "Ошибка авторизации";
+"ERROR_NOT_NATIVE_REGISTRATION" = "Пользователь не регистрировался через email";
+"ERROR_WRONG_PASS" = "Неверный пароль";
+"ERROR_PERMISSION" = "Нет доступа";
+"ERROR_BABY_COUNT_LIMIT" = "Нельзя создать более трех персонажей";
+"ERROR_SERVER_INTERNAL" = "Ошибка сервера";
+"MEDIA_ALREADY_EXIST" = "Медиа с такими данными уже существует";
+"ERROR_NO_TRANSACTION_ID" = "Не указан id транзакции";
+
+

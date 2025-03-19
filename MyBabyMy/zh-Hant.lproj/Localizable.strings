@@ -1,0 +1,218 @@
+
+"Social Networks:" = "社會網";
+"Login with Instagram" = "通過 Instagram進入";
+"Login with Facebook" = "通過 Facebook進入";
+"Login with Vkontakte" = "通過 Vkontakte進入";
+"CREATE NEW" = "建立新的";
+"LOGIN" = "進入";
+
+"CREATE NEW ACCOUNT" = "建立新的網帳號";
+"EMAIL" = "電子郵件";
+"PASSWORD" = "密碼";
+"CONFIRM PASSWORD" = "確認密碼";
+"FORGOT PASSWORD" = "忘記了密碼";
+
+"Enter your email" = "輸入您的email";
+"SEND" = "送去";
+"ForgotPassword Cancel" = "出去";
+"Instructions for password recovery were sent to your email" = "已將重設密碼的恢復代碼發送到您的電子郵件。";
+"Please enter email address" = "輸入email";
+"Incorrect email address" = "email錯誤";
+"Email must be at least 8 characters long" = "電子郵件必須至少為8個字符";
+"Email must be no more than 35 characters long" = "電子郵件必須不超過35個字符";
+"Please enter password" = "請輸入密碼";
+"Password must be at least 6 characters long" = "您的密碼太短，至少應含有6個字符";
+"Password must be no more than 18 characters long" = "您的密碼太長，至多應含有18個字符";
+"Password must contain letters and digits only" = "密碼隻應含有字母與數字";
+"Password must contain at least one letter" = "您的密至少應含有1個字母";
+"Password must contain at least one digit" = "您的密至少應含有1個數字";
+"Please confirm password" = "確認您的密碼";
+"Password does not match confirm password" = "密碼不相符您確認的密碼";
+"Current and new passwords are identical" = "新的密碼不相符原來的密碼";
+
+"THE TERMS OF USE" = "懷孕每周";
+"DECLINE" = "不同意";
+"ACCEPT" = "同意";
+
+"Settings" = "設置";
+"Calendar" = "日歷";
+
+"CALENDAR" = "日歷";
+"Pregnancy Weeks" = "懷孕每周";
+
+"Pregnancy" = "懷孕";
+"Week %d" = "懷孕第%d周";
+"PHOTO EVERYDAY" = "每天的照片";
+"VIDEO EVERYDAY" = "每天的視頻";
+"PHOTO IN DYNAMICS" = "自拍照";
+
+"I AM:" = "我";
+"FUTURE MOM" = "未來媽媽";
+"MOM" = "媽媽";
+"BABY NAME" = "寶寶的名字";
+"BIRTHDAY" = "出生日期";
+"CURRENT PREGNANCY WEEK" = "懷孕本周";
+"BEGINNING OF WEEK" = "周初";
+"Please enter pregnancy week" = "選擇懷孕某一周";
+"Please enter baby name" = "輸入寶寶的名字";
+"Please enter baby birthday" = "輸入寶寶的出生日期";
+"Create baby from existing pregnancy?" = "用現有的懷孕設定檔創作檔案";
+"Pregnancy started on %@" = "懷孕從%@開始";
+"You really want to delete?" = "您的確想刪除嗎？";
+"Changes saved" = "改變已被保存";
+"Changes were not saved" = "改變未被保存";
+
+"2 SEC" = "2秒";
+"3 SEC" = "3秒";
+"PHOTO PREVIEW" = "檢視照片";
+"VIDEO PREVIEW" = "觀看視頻";
+"RETAKE" = "再拍";
+"EDIT INFO" = "校訂信息";
+"Selected video is too long" = "視頻過長";
+
+"PHOTO INFO" = "關於照片的信息";
+"VIDEO INFO" = "視頻信息";
+"DATE" = "日期";
+"WEEK" = "周";
+"PLACE" = "地點";
+"WEATHER" = "天氣";
+"BEST MOMENT" = "最好的瞬息";
+"SAVE" = "保存";
+
+"You have Pro Account" = "您的PRO網帳號有效";
+"Valid until %@" = "有效期至%@";
+"Social Networks" = "社會網";
+"Change Password" = "改變密碼";
+"Pro Account" = "Pro網帳號";
+"Restore Purchases" = "回復購買";
+"Sync" = "同步";
+"Feedback" = "反饋";
+"Logout" = "出去";
+
+"You got pro account till %@" = "PRO帳戶有效期至%@";
+"You have no purchases" = "您沒有購買";
+"Thanks for your feedback" = "謝謝您的意見";
+"Failed to send mail" = "發信失敗";
+
+"SOCIAL NETWORKS" = "社會網";
+"Disconnect Instagram" = "關掉 Instagram";
+"Disconnect Facebook" = "關掉 Facebook";
+"Disconnect Vkontakte" = "關掉 Vkontakte";
+"No connection" = "沒有連接";
+"Can not remove your only authorization way" = "不得刪除唯一的授權方法";
+
+"Did not receive Facebook auth token" = "通過 Facebook授權失敗";
+"Did not receive Vkontakte auth token" = "通過 Vkontakte授權失敗";
+"Did not receive Instagram auth token" = "通過Instagram授權失敗";
+"Instagram authorization failed" = "通過Instagram授權失敗";
+"Did not receive Facebook user data" = "Facebook用戶數據傳輸失敗";
+"VKontakte access error" = "Vkontakte訪問錯誤";
+
+"CURRENT PASSWORD" = "現用的密碼";
+"NEW PASSWORD" = "新的密碼";
+"Password changed" = "密碼已被改變";
+
+"PRO ACCOUNT" = "PRO網帳號";
+"All photos are synced to the cloud" = "一切資料備份到雲端儲存";
+"Add a photo to any date" = "加入任何日期的視頻和照片";
+"Add everyday materials in each section" = "每天到任何類型加入資料";
+"No app logo in the video" = "視頻無商標";
+"Payments forbidden" = "付款被禁止";
+"Failed to get purchase list" = "無法收到可用的購物清單";
+"No purchases available" = "沒有可用的購物";
+"RETRY" = "再試";
+
+"SYNC" = "同步";
+"SYNC AUTOMATICALLY" = "自動同步";
+"SYNC MUSIC AUTOMATICALLY" = "自動的音樂同步";
+"ONLY OVER WI-FI" = "隻通過WiFi連接";
+"SYNC NOW" = "馬上同步";
+"Sync server data" = "與服務器同步數據";
+
+"CREATE VIDEO" = "創作視頻";
+"Choose a theme for video" = "選擇視頻的題目";
+"Normal movie" = "一般的視頻";
+"Slow movie" = "慢的視頻";
+"Best moments" = "最好的瞬息";
+"Create manually" = "視頻特性";
+"PERIOD" = "時期";
+"MY BABY" = "我的寶寶";
+"MY PREGNANCY" = "我的懷孕日記";
+"%d of %d" = "%2$d中%1$d個";
+"NEXT" = "更多";
+
+"MUSIC IN VIDEO" = "視頻的音樂";
+"SHOW AGE ON VIDEO" = "顯出寶寶在視頻中的年齡";
+"CREATE" = "創作";
+"VIDEO SPEED" = "視頻速度";
+"Slow" = "視頻速度慢";
+"Normal" = "視頻速度正常";
+"Fast" = "視頻速度快";
+"Very fast" = "視頻速度很快";
+"%g sec per photo" = "每張照像%g秒";
+"Choose a resolution for the video" = "請選擇視頻分辨率";
+
+"SELECT MUSIC" = "選擇音樂";
+"NO SOUND" = "沒有音樂";
+"BROWSE MUSIC" = "我的音樂";
+"Select any song for use in video" = "選擇視頻背景音樂";
+"Selected track is not available" = "選擇的音樂無法接通";
+"Track must be downloaded from iTunes" = "音樂應從 iTunes下載";
+"Selected track can not be used" = "選擇的音樂不可用";
+
+"Add at least 5 photos to create video" = "至少添加5張照像來創作視頻";
+"Add at least 5 videos to create video" = "至少添加5張照像";
+"Loading music" = "音樂下載";
+"Failed to load music" = "音樂下載失敗";
+"Creating video" = "視頻在創作過程中";
+"Video creation failed" = "視頻創作錯誤";
+"Video creation canceled" = "視頻創作被取消";
+
+"Save" = "保留";
+"Saved" = "保存";
+"Video saved to gallery" = "視頻在視頻廊被保存";
+"Failed to save video to gallery" = "視頻在視頻廊保存失敗";
+
+"OK" = "ОК";
+"CANCEL" = "取消";
+"Cancel" = "取消";
+"DELETE" = "删除";
+"CONFIRM" = "確認";
+"Error" = "錯誤";
+
+"Clear" = "天氣晴朗";
+"Rain" = "下雨";
+"Storm" = "雷暴";
+"Snow" = "下雪";
+
+"Geolocation service unavailable" = "地探功能不可用";
+"Camera unavailable" = "照像機不可用";
+"Microphone unavailable" = "傳聲筒不可用";
+"Photos unavailable" = "照像不可用";
+
+"No internet connection" = "無法連接網絡";
+"No server connection" = "無法連接服務器";
+"Incorrect request" = "守則要求不正確";
+"Service temporary unavailable" = "服務器暫時不可用";
+"Connection error" = "連接錯誤";
+"No data received" = "數據傳輸失敗";
+"Wrong response data" = "傳輸的數據錯誤";
+"Server error" = "服務器錯誤";
+"Failed to download file" = "文件下載失敗";
+"Corrupt image data" = "視頻數據損壞";
+
+"ERROR_AUTH_DATA_DUPLICATION" = "本社交網站帳號屬於其它用戶";
+"ERROR_NULL_AUTH_DATA" = "不得刪除唯一的授權方法";
+"ERROR_USER_WITH_THIS_CRED_ALREADY_EXIST" = "這個用戶已被登記";
+"ERROR_USER_DOES_NOT_EXIST" = "這個用戶未被登記";
+"ERROR_LOGIN" = "密碼或者電子郵箱地址不對";
+"ERROR_AUTH" = "授權錯誤";
+"ERROR_NOT_NATIVE_REGISTRATION" = "用戶通過email未登記";
+"ERROR_WRONG_PASS" = "密碼不對";
+"ERROR_PERMISSION" = "無法接通";
+"ERROR_BABY_COUNT_LIMIT" = "至多可以創作3個人物";
+"ERROR_SERVER_INTERNAL" = "服務器錯誤";
+"MEDIA_ALREADY_EXIST" = "這種媒體文件已存在";
+"ERROR_NO_TRANSACTION_ID" = "交易 id未被指明";
+
+

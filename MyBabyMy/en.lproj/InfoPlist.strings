@@ -1,0 +1,5 @@
+"NSLocationWhenInUseUsageDescription" = "Allow MyBabyMy access your location";
+"NSCameraUsageDescription" = "Allow MyBabyMy access camera";
+"NSMicrophoneUsageDescription" = "Allow MyBabyMy access microphone";
+"NSPhotoLibraryUsageDescription" = "Allow MyBabyMy access Photos";
+"NSAppleMusicUsageDescription" = "Allow MyBabyMy access media library";

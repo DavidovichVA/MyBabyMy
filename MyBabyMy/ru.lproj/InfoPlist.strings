@@ -1,0 +1,5 @@
+"NSLocationWhenInUseUsageDescription" = "Разрешите MyBabyMy доступ к вашему местоположению";
+"NSCameraUsageDescription" = "Разрешите MyBabyMy доступ к камере";
+"NSMicrophoneUsageDescription" = "Разрешите MyBabyMy доступ к микрофону";
+"NSPhotoLibraryUsageDescription" = "Разрешите MyBabyMy доступ к Фото";
+"NSAppleMusicUsageDescription" = "Разрешите MyBabyMy доступ к медиа библиотеке";

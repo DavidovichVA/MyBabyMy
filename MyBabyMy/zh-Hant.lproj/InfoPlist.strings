@@ -1,0 +1,5 @@
+"NSLocationWhenInUseUsageDescription" = "許可MyBabyMy接通地理拉置地理位置";
+"NSCameraUsageDescription" = "許可MyBabyMy接通您的照像機";
+"NSMicrophoneUsageDescription" = "許可MyBabyMy接通您的傳聲筒";
+"NSPhotoLibraryUsageDescription" = "許可MyBabyMy接通您的照像機";
+"NSAppleMusicUsageDescription" = "許可MyBabyMy接通您的媒體文件";

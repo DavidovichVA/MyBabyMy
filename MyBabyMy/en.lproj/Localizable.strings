@@ -1,0 +1,218 @@
+
+"Social Networks:" = "Social Networks:";
+"Login with Instagram" = "Login with Instagram";
+"Login with Facebook" = "Login with Facebook";
+"Login with Vkontakte" = "Login with Vkontakte";
+"CREATE NEW" = "CREATE NEW";
+"LOGIN" = "LOGIN";
+
+"CREATE NEW ACCOUNT" = "CREATE NEW ACCOUNT";
+"EMAIL" = "EMAIL";
+"PASSWORD" = "PASSWORD";
+"CONFIRM PASSWORD" = "CONFIRM PASSWORD";
+"FORGOT PASSWORD" = "FORGOT PASSWORD";
+
+"Enter your email" = "Enter your email";
+"SEND" = "SEND";
+"ForgotPassword Cancel" = "CANCEL";
+"Instructions for password recovery were sent to your email" = "Instructions for password recovery were sent to your email";
+"Please enter email address" = "Please enter email address";
+"Incorrect email address" = "Incorrect email address";
+"Email must be at least 8 characters long" = "Email must be at least 8 characters long";
+"Email must be no more than 35 characters long" = "Email must be no more than 35 characters long";
+"Please enter password" = "Please enter password";
+"Password must be at least 6 characters long" = "Password must be at least 6 characters long";
+"Password must be no more than 18 characters long" = "Password must be no more than 18 characters long";
+"Password must contain letters and digits only" = "Password must contain letters and digits only";
+"Password must contain at least one letter" = "Password must contain at least one letter";
+"Password must contain at least one digit" = "Password must contain at least one digit";
+"Please confirm password" = "Please confirm password";
+"Password does not match confirm password" = "Password does not match confirm password";
+"Current and new passwords are identical" = "Current and new passwords are identical";
+
+"THE TERMS OF USE" = "THE TERMS OF USE";
+"DECLINE" = "DECLINE";
+"ACCEPT" = "ACCEPT";
+
+"Settings" = "Settings";
+"Calendar" = "Calendar";
+
+"CALENDAR" = "CALENDAR";
+"Pregnancy Weeks" = "Pregnancy Weeks";
+
+"Pregnancy" = "Pregnancy";
+"Week %d" = "Week %d";
+"PHOTO EVERYDAY" = "PHOTO EVERY DAY";
+"VIDEO EVERYDAY" = "VIDEO EVERY DAY";
+"PHOTO IN DYNAMICS" = "PHOTO IN DYNAMICS";
+
+"I AM:" = "I AM:";
+"FUTURE MOM" = "FUTURE MOM";
+"MOM" = "MOM";
+"BABY NAME" = "BABY NAME";
+"BIRTHDAY" = "BIRTHDAY";
+"CURRENT PREGNANCY WEEK" = "CURRENT PREGNANCY WEEK";
+"BEGINNING OF WEEK" = "BEGINNING OF WEEK";
+"Please enter pregnancy week" = "Please enter pregnancy week";
+"Please enter baby name" = "Please enter baby name";
+"Please enter baby birthday" = "Please enter baby birthday";
+"Create baby from existing pregnancy?" = "Create baby from existing pregnancy?";
+"Pregnancy started on %@" = "Pregnancy started on %@";
+"You really want to delete?" = "You really want to delete?";
+"Changes saved" = "Changes saved";
+"Changes were not saved" = "Changes were not saved";
+
+"2 SEC" = "2 SEC";
+"3 SEC" = "3 SEC";
+"PHOTO PREVIEW" = "PHOTO PREVIEW";
+"VIDEO PREVIEW" = "VIDEO PREVIEW";
+"RETAKE" = "RETAKE";
+"EDIT INFO" = "EDIT INFO";
+"Selected video is too long" = "Selected video is too long";
+
+"PHOTO INFO" = "PHOTO INFO";
+"VIDEO INFO" = "VIDEO INFO";
+"DATE" = "DATE";
+"WEEK" = "WEEK";
+"PLACE" = "PLACE";
+"WEATHER" = "WEATHER";
+"BEST MOMENT" = "BEST MOMENT";
+"SAVE" = "SAVE";
+
+"You have Pro Account" = "You have Pro Account";
+"Valid until %@" = "Valid until %@";
+"Social Networks" = "Social Networks";
+"Change Password" = "Change Password";
+"Pro Account" = "Pro Account";
+"Restore Purchases" = "Restore Purchases";
+"Sync" = "Sync";
+"Feedback" = "Feedback";
+"Logout" = "Logout";
+
+"You got pro account till %@" = "You got pro account till %@";
+"You have no purchases" = "You have no purchases";
+"Thanks for your feedback" = "Thanks for your feedback";
+"Failed to send mail" = "Failed to send mail";
+
+"SOCIAL NETWORKS" = "SOCIAL NETWORKS";
+"Disconnect Instagram" = "Disconnect Instagram";
+"Disconnect Facebook" = "Disconnect Facebook";
+"Disconnect Vkontakte" = "Disconnect Vkontakte";
+"No connection" = "No connection";
+"Can not remove your only authorization way" = "Can not remove your only authorization way";
+
+"Did not receive Facebook auth token" = "Did not receive Facebook auth token";
+"Did not receive Vkontakte auth token" = "Did not receive Vkontakte auth token";
+"Did not receive Instagram auth token" = "Did not receive Instagram auth token";
+"Instagram authorization failed" = "Instagram authorization failed";
+"Did not receive Facebook user data" = "Did not receive Facebook user data";
+"VKontakte access error" = "VKontakte access error";
+
+"CURRENT PASSWORD" = "CURRENT PASSWORD";
+"NEW PASSWORD" = "NEW PASSWORD";
+"Password changed" = "Password changed";
+
+"PRO ACCOUNT" = "PRO ACCOUNT";
+"All photos are synced to the cloud" = "All photos are synced to the cloud";
+"Add a photo to any date" = "Add a photo to any date";
+"No app logo in the video" = "No app logo in the video";
+"Add everyday materials in each section" = "Add everyday materials in each section";
+"Payments forbidden" = "Payments forbidden";
+"Failed to get purchase list" = "Failed to get purchase list";
+"No purchases available" = "No purchases available";
+"RETRY" = "RETRY";
+
+"SYNC" = "SYNC";
+"SYNC AUTOMATICALLY" = "SYNC AUTOMATICALLY";
+"SYNC MUSIC AUTOMATICALLY" = "SYNC MUSIC AUTOMATICALLY";
+"ONLY OVER WI-FI" = "ONLY OVER WI-FI";
+"SYNC NOW" = "SYNC NOW";
+"Sync server data" = "Sync server data";
+
+"CREATE VIDEO" = "CREATE VIDEO";
+"Choose a theme for video" = "Choose a theme for video";
+"Normal movie" = "Normal movie";
+"Slow movie" = "Slow movie";
+"Best moments" = "Best moments";
+"Create manually" = "Create manually";
+"PERIOD" = "PERIOD";
+"MY BABY" = "MY BABY";
+"MY PREGNANCY" = "MY PREGNANCY";
+"%d of %d" = "%d of %d";
+"NEXT" = "NEXT";
+
+"MUSIC IN VIDEO" = "MUSIC IN VIDEO";
+"SHOW AGE ON VIDEO" = "SHOW AGE ON VIDEO";
+"CREATE" = "CREATE";
+"VIDEO SPEED" = "VIDEO SPEED";
+"Slow" = "Slow";
+"Normal" = "Normal";
+"Fast" = "Fast";
+"Very fast" = "Very fast";
+"%g sec per photo" = "%g sec per photo";
+"Choose a resolution for the video" = "Choose a resolution for the video";
+
+"SELECT MUSIC" = "SELECT MUSIC";
+"NO SOUND" = "NO SOUND";
+"BROWSE MUSIC" = "BROWSE MUSIC";
+"Select any song for use in video" = "Select any song for use in video";
+"Selected track is not available" = "Selected track is not available";
+"Track must be downloaded from iTunes" = "Track must be downloaded from iTunes";
+"Selected track can not be used" = "Selected track can not be used";
+
+"Add at least 5 photos to create video" = "Add at least 5 photos to create video";
+"Add at least 5 videos to create video" = "Add at least 5 videos to create video";
+"Loading music" = "Loading music";
+"Failed to load music" = "Failed to load music";
+"Creating video" = "Creating video";
+"Video creation failed" = "Video creation failed";
+"Video creation canceled" = "Video creation canceled";
+
+"Save" = "Save";
+"Saved" = "Saved";
+"Video saved to gallery" = "Video saved to gallery";
+"Failed to save video to gallery" = "Failed to save video to gallery";
+
+"OK" = "OK";
+"CANCEL" = "CANCEL";
+"Cancel" = "Cancel";
+"DELETE" = "DELETE";
+"CONFIRM" = "CONFIRM";
+"Error" = "Error";
+
+"Clear" = "CLEAR";
+"Rain" = "RAIN";
+"Storm" = "STORM";
+"Snow" = "SNOW";
+
+"Geolocation service unavailable" = "Geolocation service unavailable";
+"Camera unavailable" = "Camera unavailable";
+"Microphone unavailable" = "Microphone unavailable";
+"Photos unavailable" = "Photos unavailable";
+
+"No internet connection" = "No internet connection";
+"No server connection" = "No server connection";
+"Incorrect request" = "Incorrect request";
+"Service temporary unavailable" = "Service temporary unavailable";
+"Connection error" = "Connection error";
+"No data received" = "No data received";
+"Wrong response data" = "Wrong response data";
+"Server error" = "Server error";
+"Failed to download file" = "Failed to download file";
+"Corrupt image data" = "Corrupt image data";
+
+"ERROR_AUTH_DATA_DUPLICATION" = "This social network account already belongs to another user";
+"ERROR_NULL_AUTH_DATA" = "Can not remove your only authorization way";
+"ERROR_USER_WITH_THIS_CRED_ALREADY_EXIST" = "Such user is already registered";
+"ERROR_USER_DOES_NOT_EXIST" = "Such user is not registered";
+"ERROR_LOGIN" = "Wrong email or password";
+"ERROR_AUTH" = "Authorization error";
+"ERROR_NOT_NATIVE_REGISTRATION" = "User did not register via email";
+"ERROR_WRONG_PASS" = "Wrong password";
+"ERROR_PERMISSION" = "No access";
+"ERROR_BABY_COUNT_LIMIT" = "You can not create more than three personas";
+"ERROR_SERVER_INTERNAL" = "Server error";
+"MEDIA_ALREADY_EXIST" = "Media with such data already exists";
+"ERROR_NO_TRANSACTION_ID" = "The transaction id is not specified";
+
+

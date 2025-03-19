@@ -1,0 +1,218 @@
+
+"Social Networks:" = "Réseaux sociaux";
+"Login with Instagram" = "Se connecter par Instagram";
+"Login with Facebook" = "Se connecter par Facebook";
+"Login with Vkontakte" = "Se connecter par Vkontakte";
+"CREATE NEW" = "CRÉER UN NOUVEL";
+"LOGIN" = "SE CONNECTER";
+
+"CREATE NEW ACCOUNT" = "CRÉER UN NOUVEAU COMPTE";
+"EMAIL" = "EMAIL";
+"PASSWORD" = "MOT DE PASSE";
+"CONFIRM PASSWORD" = "CONFIRMER LE MOT DE PASSE";
+"FORGOT PASSWORD" = "OUBLIEZ LE MOT DE PASSE";
+
+"Enter your email" = "Entrez votre email";
+"SEND" = "ENVOYER";
+"ForgotPassword Cancel" = "DECONNECTER";
+"Instructions for password recovery were sent to your email" = "Instructions pour la récupération du mot de passe ont été envoyées sur votre email";
+"Please enter email address" = "Introduisez votre adresse mail";
+"Incorrect email address" = "Adresse mail incorrecte";
+"Email must be at least 8 characters long" = "Le courrier électronique doit comporter au moins 8 caractères";
+"Email must be no more than 35 characters long" = "Le courrier électronique doit avoir non plus de 35 caractères";
+"Please enter password" = "Introduisez votre mot de passe";
+"Password must be at least 6 characters long" = "Le mot de passe doit contenir au moins 6 caractères";
+"Password must be no more than 18 characters long" = "Mot de pas ne doit pas contenir plus de 18 caractères";
+"Password must contain letters and digits only" = "Mot de pasee ne doit contenir que des lettres et chiffres";
+"Password must contain at least one letter" = "Mot de pasee doit contenir au moins une lettre";
+"Password must contain at least one digit" = "Mot de pasee doit contenir au moins une chiffre";
+"Please confirm password" = "Confirmez votre mot de passe";
+"Password does not match confirm password" = "Mot de passe ne correspond pas au mot de pasee de confirmation";
+"Current and new passwords are identical" = "Nouveau mot de passe correspond au mot de passe précédent";
+
+"THE TERMS OF USE" = "CONDITIONS D'UTILISATION";
+"DECLINE" = "N'ACCEPTE PAS";
+"ACCEPT" = "ACCEPTE";
+
+"Settings" = "Configurations";
+"Calendar" = "Calendrier";
+
+"CALENDAR" = "CALENDRIER";
+"Pregnancy Weeks" = "Semaines de la grossesse";
+
+"Pregnancy" = "Grossesse";
+"Week %d" = "Semaine %d";
+"PHOTO EVERYDAY" = "PHOTOS CHAQUE JOUR";
+"VIDEO EVERYDAY" = "VIDEO CHAQUE JOUR";
+"PHOTO IN DYNAMICS" = "SELFIE D'ENFANT";
+
+"I AM:" = "JE SUIS:";
+"FUTURE MOM" = "FUTURE MAMAN";
+"MOM" = "MAMAN";
+"BABY NAME" = "PRENOM DE L'ENFANT";
+"BIRTHDAY" = "DATE DE NAISSANCE";
+"CURRENT PREGNANCY WEEK" = "SEMAINE COURANTE DE LA GROSSESSE";
+"BEGINNING OF WEEK" = "DEBUT DE LA SEMANE";
+"Please enter pregnancy week" = "Choisissez la semaine de la grossesse";
+"Please enter baby name" = "Introduisez le nom de l'enfant";
+"Please enter baby birthday" = "Introduisez le jour de naissance de l'enfant";
+"Create baby from existing pregnancy?" = "Créer le profil de l'enfant du profil existant de la grossesse?";
+"Pregnancy started on %@" = "Grossesse commencée le %@";
+"You really want to delete?" = "Vous vraiment voulez supprimer?";
+"Changes saved" = "Modifications sont conservées";
+"Changes were not saved" = "Modifications n'ont pas été conservées";
+
+"2 SEC" = "2 SEC";
+"3 SEC" = "3 SEC";
+"PHOTO PREVIEW" = "AFFICHAGE PHOTO";
+"VIDEO PREVIEW" = "AFFICHER VIDEO";
+"RETAKE" = "REPRENDRE";
+"EDIT INFO" = "EDITER L'INFORMATION";
+"Selected video is too long" = "La vidéo est trop longue";
+
+"PHOTO INFO" = "INFORMATION SUR LE PHOTO";
+"VIDEO INFO" = "INFORMATION SUR LE VIDEO";
+"DATE" = "DATE";
+"WEEK" = "SEMAINE";
+"PLACE" = "ENDROIT";
+"WEATHER" = "TEMPS";
+"BEST MOMENT" = "MEILLEUR MOMENT";
+"SAVE" = "CONSERVER";
+
+"You have Pro Account" = "Votre compte PRO est valable";
+"Valid until %@" = "Valable jusqu'au %@";
+"Social Networks" = "Réseaux sociaux";
+"Change Password" = "Modifier le mot de passe";
+"Pro Account" = "Compte PRO";
+"Restore Purchases" = "Réstaurer les achats";
+"Sync" = "Synchronisation";
+"Feedback" = "Feed-back";
+"Logout" = "Quitter";
+
+"You got pro account till %@" = "Compte PRO est valable jusqu'au %@";
+"You have no purchases" = "Vous n'avez pas d'achats";
+"Thanks for your feedback" = "Merci pour votre opinion";
+"Failed to send mail" = "Message n'est pas envoyé";
+
+"SOCIAL NETWORKS" = "RÉSEAUX SOCIAUX";
+"Disconnect Instagram" = "Déconnecter Instagram";
+"Disconnect Facebook" = "Déconnecter Facebook";
+"Disconnect Vkontakte" = "Déconnecter Vkontakte";
+"No connection" = "Pas de connexion";
+"Can not remove your only authorization way" = "Impossible de supprimer le seul moyen d'utorisation";
+
+"Did not receive Facebook auth token" = "Impossible de s'identifier par Facebook";
+"Did not receive Vkontakte auth token" = "Impossible de s'identifier par Vkontakte";
+"Did not receive Instagram auth token" = "Impossible de s'identifier par Instagram";
+"Instagram authorization failed" = "Impossible de s'identifier par Instagram";
+"Did not receive Facebook user data" = "Impossible de recevoir les données d'utilisateur";
+"VKontakte access error" = "Erreur d'accès sur Vkontakte";
+
+"CURRENT PASSWORD" = "MOT DE PASSE ACTUEL";
+"NEW PASSWORD" = "NOUVEAU MOT DE PASSE";
+"Password changed" = "Mot de passe modifié";
+
+"PRO ACCOUNT" = "COMPTE PRO";
+"All photos are synced to the cloud" = "Tous les matériesl sont doublés au nuage";
+"Add a photo to any date" = "Ajoutez photo ou vidéo à toute date";
+"Add everyday materials in each section" = "Ajoutez les matériels chaque jour à toute catégorie";
+"No app logo in the video" = "Manque le logo de l'application sur la vidéo";
+"Payments forbidden" = "Paiements sont interdits";
+"Failed to get purchase list" = "Impossible de recevoir la liste d'achats accessibles";
+"No purchases available" = "Pas d'achats accessibles";
+"RETRY" = "REESSAYER";
+
+"SYNC" = "SYNCHRONISATION";
+"SYNC AUTOMATICALLY" = "SYNCHRONISATION AUTOMATIQUE";
+"SYNC MUSIC AUTOMATICALLY" = "MUSIQUE SYNCHRONISATION AUTOMATIQUE";
+"ONLY OVER WI-FI" = "SEULEMENT PAR WIFI";
+"SYNC NOW" = "SYNCHRONISER MAINTENANT";
+"Sync server data" = "Synchronisation de données au serveur";
+
+"CREATE VIDEO" = "CREATION DU VIDEO";
+"Choose a theme for video" = "Choisissez le sujet de viséo";
+"Normal movie" = "Vidéo normal";
+"Slow movie" = "Vidéo lent";
+"Best moments" = "Meilleurs moments";
+"Create manually" = "Caractéristiques du vidéo";
+"PERIOD" = "PÉRIODE";
+"MY BABY" = "MON PETIT";
+"MY PREGNANCY" = "MA GROSSESSE";
+"%d of %d" = "%d de %d";
+"NEXT" = "SUIVANT";
+
+"MUSIC IN VIDEO" = "MUSIQUE POUR VIDEO";
+"SHOW AGE ON VIDEO" = "AFFICHER L'AGE SUR VIDEO";
+"CREATE" = "CRÉER";
+"VIDEO SPEED" = "VITESSE DE VIDEO";
+"Slow" = "Lente";
+"Normal" = "Normale";
+"Fast" = "Rapide";
+"Very fast" = "Très rapide";
+"%g sec per photo" = "%g sec par photo";
+"Choose a resolution for the video" = "Sélectionnez la résolution de la vidéo";
+
+"SELECT MUSIC" = "CHOISISSEZ LA MUSIQUE";
+"NO SOUND" = "PAS DE MUSIQUE";
+"BROWSE MUSIC" = "MA MUSIQUE";
+"Select any song for use in video" = "Choisissez une chanson pour vidéo";
+"Selected track is not available" = "Track choisi est inaccessible";
+"Track must be downloaded from iTunes" = "Track doit etre téléchargé de iTunes";
+"Selected track can not be used" = "Impossible d'utiliser le track choisi";
+
+"Add at least 5 photos to create video" = "Ajoutez au moins 5 photos pour créer vidéo";
+"Add at least 5 videos to create video" = "Ajoutez au moins 5 photos";
+"Loading music" = "Chargement de la musique ";
+"Failed to load music" = "Impossible de charger la musique";
+"Creating video" = "Création du viéo";
+"Video creation failed" = "Erreur de création vidéo";
+"Video creation canceled" = "Création du védo est annulée";
+
+"Save" = "Enregistrer";
+"Saved" = "Enregistré";
+"Video saved to gallery" = "Vidéo conservé en gallerie";
+"Failed to save video to gallery" = "Vidéo n'est pas conservé";
+
+"OK" = "OK";
+"CANCEL" = "ANNULER";
+"Cancel" = "Annuler";
+"DELETE" = "SUPPRIMER";
+"CONFIRM" = "CONFIRME";
+"Error" = "Erreur";
+
+"Clear" = "CLAIR";
+"Rain" = "PLUIE";
+"Storm" = "ORAGE";
+"Snow" = "NEIGE";
+
+"Geolocation service unavailable" = "Géolocalisation  inaccessible";
+"Camera unavailable" = "Caméra  inaccessible";
+"Microphone unavailable" = "Microphone inaccessible";
+"Photos unavailable" = "Photos inaccessibles";
+
+"No internet connection" = "Pas de connexion Internet";
+"No server connection" = "Pas de connexion avec serveur";
+"Incorrect request" = "Requete incirrecte";
+"Service temporary unavailable" = "Service temporairement inaccessible";
+"Connection error" = "Erreur de connexion";
+"No data received" = "Pas de données reçues";
+"Wrong response data" = "Erreur d'acquisition de données";
+"Server error" = "Erreur de serveur";
+"Failed to download file" = "Impossible de télécharger le fichier";
+"Corrupt image data" = "Défaut de fichier d'image ";
+
+"ERROR_AUTH_DATA_DUPLICATION" = "Ce compte du réseau social appartient déjà à un autre utilisateur";
+"ERROR_NULL_AUTH_DATA" = "Impossible de supprimer le seul moyen d'utorisation";
+"ERROR_USER_WITH_THIS_CRED_ALREADY_EXIST" = "Utilisateur avec ces données est déjà enregistré";
+"ERROR_USER_DOES_NOT_EXIST" = "Pas d'utilisateur avec ces données";
+"ERROR_LOGIN" = "Mot de passe ou email incorrect";
+"ERROR_AUTH" = "Erreur d'autorisation";
+"ERROR_NOT_NATIVE_REGISTRATION" = "Utilisateur n'est pas enregistré par email";
+"ERROR_WRONG_PASS" = "Mot de passe incorrect";
+"ERROR_PERMISSION" = "Pas d'accès";
+"ERROR_BABY_COUNT_LIMIT" = "Impossible de créer plus de trois personnages";
+"ERROR_SERVER_INTERNAL" = "Erreur de serveur";
+"MEDIA_ALREADY_EXIST" = "Multimédia avec ces données existe déjà";
+"ERROR_NO_TRANSACTION_ID" = "Id de transaction n'est pas indiqué";
+
+

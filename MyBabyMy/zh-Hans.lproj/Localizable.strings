@@ -1,0 +1,218 @@
+
+"Social Networks:" = "社会网";
+"Login with Instagram" = "通过 Instagram进入";
+"Login with Facebook" = "通过 Facebook进入";
+"Login with Vkontakte" = "通过 Vkontakte进入";
+"CREATE NEW" = "建立新的";
+"LOGIN" = "进入";
+
+"CREATE NEW ACCOUNT" = "建立新的网帐号";
+"EMAIL" = "电子邮件";
+"PASSWORD" = "密码";
+"CONFIRM PASSWORD" = "确认密码";
+"FORGOT PASSWORD" = "忘记了密码";
+
+"Enter your email" = "输入您的email";
+"SEND" = "送去";
+"ForgotPassword Cancel" = "出去";
+"Instructions for password recovery were sent to your email" = "已将重设密码的恢复代码发送到您的电子邮件。";
+"Please enter email address" = "输入email";
+"Incorrect email address" = "email错误";
+"Email must be at least 8 characters long" = "电子邮件必须至少为8个字符";
+"Email must be no more than 35 characters long" = "电子邮件必须不超过35个字符";
+"Please enter password" = "请输入密码";
+"Password must be at least 6 characters long" = "您的密码太短，至少应含有6个字符";
+"Password must be no more than 18 characters long" = "您的密码太长，至多应含有18个字符";
+"Password must contain letters and digits only" = "密码只应含有字母与数字";
+"Password must contain at least one letter" = "您的密至少应含有1个字母";
+"Password must contain at least one digit" = "您的密至少应含有1个数字";
+"Please confirm password" = "确认您的密码";
+"Password does not match confirm password" = "密码不相符您确认的密码";
+"Current and new passwords are identical" = "新的密码不相符原来的密码";
+
+"THE TERMS OF USE" = "怀孕每周";
+"DECLINE" = "不同意";
+"ACCEPT" = "同意";
+
+"Settings" = "设置";
+"Calendar" = "日历";
+
+"CALENDAR" = "日历";
+"Pregnancy Weeks" = "怀孕每周";
+
+"Pregnancy" = "怀孕";
+"Week %d" = "怀孕第%d周";
+"PHOTO EVERYDAY" = "每天的照片";
+"VIDEO EVERYDAY" = "每天的视频";
+"PHOTO IN DYNAMICS" = "自拍照";
+
+"I AM:" = "我";
+"FUTURE MOM" = "未来妈妈";
+"MOM" = "妈妈";
+"BABY NAME" = "宝宝的名字";
+"BIRTHDAY" = "出生日期";
+"CURRENT PREGNANCY WEEK" = "怀孕本周";
+"BEGINNING OF WEEK" = "周初";
+"Please enter pregnancy week" = "选择怀孕某一周";
+"Please enter baby name" = "输入宝宝的名字";
+"Please enter baby birthday" = "输入宝宝的出生日期";
+"Create baby from existing pregnancy?" = "用现有的怀孕设定档创作档案";
+"Pregnancy started on %@" = "怀孕从%@开始";
+"You really want to delete?" = "您的确想删除吗？";
+"Changes saved" = "改变已被保存";
+"Changes were not saved" = "改变未被保存";
+
+"2 SEC" = "2秒";
+"3 SEC" = "3秒";
+"PHOTO PREVIEW" = "检视照片";
+"VIDEO PREVIEW" = "观看视频";
+"RETAKE" = "再拍";
+"EDIT INFO" = "校订信息";
+"Selected video is too long" = "视频是太长";
+
+"PHOTO INFO" = "关于照片的信息";
+"VIDEO INFO" = "视频信息";
+"DATE" = "日期";
+"WEEK" = "週";
+"PLACE" = "地点";
+"WEATHER" = "天气";
+"BEST MOMENT" = "最好的瞬息";
+"SAVE" = "保存";
+
+"You have Pro Account" = "您的PRO网帐号有效";
+"Valid until %@" = "有效期至%@";
+"Social Networks" = "社会网";
+"Change Password" = "改变密码";
+"Pro Account" = "Pro网帐号";
+"Restore Purchases" = "回复购买";
+"Sync" = "同步";
+"Feedback" = "反馈";
+"Logout" = "出去";
+
+"You got pro account till %@" = "PRO帐户有效期至%@";
+"You have no purchases" = "您没有购买";
+"Thanks for your feedback" = "谢谢您的意见";
+"Failed to send mail" = "发信失败";
+
+"SOCIAL NETWORKS" = "社会网";
+"Disconnect Instagram" = "关掉 Instagram";
+"Disconnect Facebook" = "关掉 Facebook";
+"Disconnect Vkontakte" = "关掉 Vkontakte";
+"No connection" = "没有连接";
+"Can not remove your only authorization way" = "不得删除唯一的授权方法";
+
+"Did not receive Facebook auth token" = "通过 Facebook授权失败";
+"Did not receive Vkontakte auth token" = "通过 Vkontakte授权失败";
+"Did not receive Instagram auth token" = "通过Instagram授权失败";
+"Instagram authorization failed" = "通过Instagram授权失败";
+"Did not receive Facebook user data" = "Facebook用户数据传输失败";
+"VKontakte access error" = "Vkontakte访问错误";
+
+"CURRENT PASSWORD" = "现用的密码";
+"NEW PASSWORD" = "新的密码";
+"Password changed" = "密码已被改变";
+
+"PRO ACCOUNT" = "PRO网帐号";
+"All photos are synced to the cloud" = "一切资料备份到云端储存";
+"Add a photo to any date" = "加入任何日期的视频和照片";
+"Add everyday materials in each section" = "每天到任何类型加入资料";
+"No app logo in the video" = "视频无商标";
+"Payments forbidden" = "付款被禁止";
+"Failed to get purchase list" = "无法收到可用的购物清单";
+"No purchases available" = "没有可用的购物";
+"RETRY" = "再试";
+
+"SYNC" = "同步";
+"SYNC AUTOMATICALLY" = "自动同步";
+"SYNC MUSIC AUTOMATICALLY" = "自动的音乐同步";
+"ONLY OVER WI-FI" = "只通过WiFi连接";
+"SYNC NOW" = "马上同步";
+"Sync server data" = "与服务器同步数据";
+
+"CREATE VIDEO" = "创作视频";
+"Choose a theme for video" = "选择视频的题目";
+"Normal movie" = "一般的视频";
+"Slow movie" = "慢的视频";
+"Best moments" = "最好的瞬息";
+"Create manually" = "视频特性";
+"PERIOD" = "时期";
+"MY BABY" = "我的宝宝";
+"MY PREGNANCY" = "我的怀孕日记";
+"%d of %d" = "%2$d中%1$d个";
+"NEXT" = "更多";
+
+"MUSIC IN VIDEO" = "视频的音乐";
+"SHOW AGE ON VIDEO" = "显出宝宝在视频中的年龄";
+"CREATE" = "创作";
+"VIDEO SPEED" = "视频速度";
+"Slow" = "视频速度慢";
+"Normal" = "视频速度正常";
+"Fast" = "视频速度快";
+"Very fast" = "视频速度很快";
+"%g sec per photo" = "每张照像%g秒";
+"Choose a resolution for the video" = "请选择视频分辨率";
+
+"SELECT MUSIC" = "选择音乐";
+"NO SOUND" = "没有音乐";
+"BROWSE MUSIC" = "我的音乐";
+"Select any song for use in video" = "选择视频背景音乐";
+"Selected track is not available" = "选择的音乐无法接通";
+"Track must be downloaded from iTunes" = "音乐应从 iTunes下载";
+"Selected track can not be used" = "选择的音乐不可用";
+
+"Add at least 5 photos to create video" = "至少添加5张照像来创作视频";
+"Add at least 5 videos to create video" = "至少添加5张照像";
+"Loading music" = "音乐下载";
+"Failed to load music" = "音乐下载失败";
+"Creating video" = "视频在创作过程中";
+"Video creation failed" = "视频创作错误";
+"Video creation canceled" = "视频创作被取消";
+
+"Save" = "保留";
+"Saved" = "保存";
+"Video saved to gallery" = "视频在视频廊被保存";
+"Failed to save video to gallery" = "视频在视频廊保存失败";
+
+"OK" = "ОК";
+"CANCEL" = "取消";
+"Cancel" = "取消";
+"DELETE" = "删除";
+"CONFIRM" = "确认";
+"Error" = "错误";
+
+"Clear" = "天气晴朗";
+"Rain" = "下雨";
+"Storm" = "雷暴";
+"Snow" = "下雪";
+
+"Geolocation service unavailable" = "地探功能不可用";
+"Camera unavailable" = "照像机不可用";
+"Microphone unavailable" = "传声筒不可用";
+"Photos unavailable" = "照像不可用";
+
+"No internet connection" = "无法连接网络";
+"No server connection" = "无法连接服务器";
+"Incorrect request" = "守则要求不正确";
+"Service temporary unavailable" = "服务器暂时不可用";
+"Connection error" = "连接错误";
+"No data received" = "数据传输失败";
+"Wrong response data" = "传输的数据错误";
+"Server error" = "服务器错误";
+"Failed to download file" = "文件下载失败";
+"Corrupt image data" = "视频数据损坏";
+
+"ERROR_AUTH_DATA_DUPLICATION" = "本社交网站帐号属于其它用户";
+"ERROR_NULL_AUTH_DATA" = "不得删除唯一的授权方法";
+"ERROR_USER_WITH_THIS_CRED_ALREADY_EXIST" = "这个用户已被登记";
+"ERROR_USER_DOES_NOT_EXIST" = "这个用户未被登记";
+"ERROR_LOGIN" = "密码或者电子邮箱地址不对";
+"ERROR_AUTH" = "授权错误";
+"ERROR_NOT_NATIVE_REGISTRATION" = "用户通过email未登记";
+"ERROR_WRONG_PASS" = "密码不对";
+"ERROR_PERMISSION" = "无法接通";
+"ERROR_BABY_COUNT_LIMIT" = "至多可以创作3个人物";
+"ERROR_SERVER_INTERNAL" = "服务器错误";
+"MEDIA_ALREADY_EXIST" = "这种媒体文件已存在";
+"ERROR_NO_TRANSACTION_ID" = "交易 id未被指明";
+
+
